@@ -1,0 +1,3 @@
+branch change
+conflict
+conflict
