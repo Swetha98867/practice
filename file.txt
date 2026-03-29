@@ -1,0 +1,2 @@
+this is branch2
+this file contains branch2 contents
